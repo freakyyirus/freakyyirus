@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+.DS_Store
+.vscode/
+
+# Unwanted files
+questionnaire.md
+preview.html
