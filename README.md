@@ -26,8 +26,6 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <!-- GALLERY-START -->
 
-<h4 align="center">📅 February 24, 2026</h4>
-
 <div align="center">
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: bottom;">
@@ -68,7 +66,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <!-- GALLERY-END -->
 
 <p align="center">
-  <em>(The gallery automatically updates when I add new photos to the <code>Gallery/</code> folder)</em>
+  <em>(My gallery ❤️)</em>
 </p>
 
 ---
