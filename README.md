@@ -31,6 +31,10 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <div align="center">
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: bottom;">
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%2011.59.59%20PM.jpg" alt="WhatsApp Image 2026 02 24 at 11.59.59 PM" width="120" style="border-radius:8px;" />
+  </figure>
+
+  <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: bottom;">
     <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.09%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.09 PM" width="120" style="border-radius:8px;" />
   </figure>
 
