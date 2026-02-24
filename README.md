@@ -60,10 +60,10 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <div align="center">
   <a href="https://github.com/freakyyirus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus GitHub Stats" />
   </a>
   <a href="https://github.com/freakyyirus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus Top Languages" />
   </a>
 </div>
 
@@ -71,7 +71,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <div align="center">
   <a href="https://github.com/freakyyirus">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="freakyyirus GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="freakyyirus GitHub Streak" />
   </a>
 </div>
 
