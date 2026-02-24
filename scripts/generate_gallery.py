@@ -15,9 +15,18 @@ def build_gallery_html(files):
             continue
         src = 'Gallery/' + urllib.parse.quote(fn)
         caption = os.path.splitext(fn)[0].replace('-', ' ').replace('_', ' ')
+        
+        ext = os.path.splitext(fn)[1].lower()
+        if ext in ['.mp4', '.webm', '.ogg', '.mov']:
+            # Use video tag for videos
+            media_tag = f'<video src="{src}" width="180" style="border-radius:8px;" autoplay loop muted playsinline aria-label="{caption}"></video>'
+        else:
+            # Use img tag for images
+            media_tag = f'<img src="{src}" alt="{caption}" width="180" style="border-radius:8px;" />'
+            
         item = (
             '  <figure style="display:inline-block; margin:10px; text-align:center;">\n'
-            f'    <img src="{src}" alt="{caption}" width="280" style="border-radius:8px;" />\n'
+            f'    {media_tag}\n'
             '  </figure>'
         )
         parts.append(item)
