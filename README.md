@@ -26,6 +26,8 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <!-- GALLERY-START -->
 
+<h4 align="center">📅 February 24, 2026</h4>
+
 <div align="center">
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: bottom;">
@@ -61,6 +63,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
   </figure>
 
 </div>
+<br/>
 
 <!-- GALLERY-END -->
 
