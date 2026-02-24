@@ -1,11 +1,13 @@
 <br>
 
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/freakyyirus.png" width="180" style="border-radius: 50%; padding: 10px;" alt="Profile Picture" />
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://github.com/freakyyirus.png" width="180" height="180" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;" alt="Profile Picture" />
     </td>
-    <td width="70%">
+    <td width="70%" style="border: none;">
       <h2>Hi there, I'm freakyyirus! 👋</h2>
       <p><em><b>Full-Stack Developer • Hackathon Enthusiast • Always Learning & Building</b></em></p>
       <p><b>👨‍💻 About Me</b></p>
