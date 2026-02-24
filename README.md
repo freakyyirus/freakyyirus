@@ -1,7 +1,3 @@
-<br>
-
-<br>
-
 <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
   <tr style="border: none;">
     <td width="30%" align="center" style="border: none;">
@@ -33,11 +29,11 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <div align="center">
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="Gallary/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 1.44.51 PM" width="280" style="border-radius:8px;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 1.44.51 PM" width="280" style="border-radius:8px;" />
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="Gallary/nono.jpg" alt="nono" width="280" style="border-radius:8px;" />
+    <img src="Gallery/nono.jpg" alt="nono" width="280" style="border-radius:8px;" />
   </figure>
 
 </div>
@@ -45,7 +41,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <!-- GALLERY-END -->
 
 <p align="center">
-  <em>(The gallery automatically updates when I add new photos to the <code>Gallary/</code> folder)</em>
+  <em>(The gallery automatically updates when I add new photos to the <code>Gallery/</code> folder)</em>
 </p>
 
 ---
@@ -54,7 +50,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,css,html,git,github,vscode,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,css,html,git,github,vscode,docker,figma" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -64,10 +60,10 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <div align="center">
   <a href="https://github.com/freakyyirus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus GitHub Stats" />
   </a>
   <a href="https://github.com/freakyyirus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="freakyyirus Top Languages" />
   </a>
 </div>
 
@@ -75,7 +71,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 
 <div align="center">
   <a href="https://github.com/freakyyirus">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="freakyyirus GitHub Streak" />
   </a>
 </div>
 
@@ -84,19 +80,21 @@ Here are some highlights and memories from my recent hackathons and tech events!
 ### 🤝 Connect with Me
 
 <p align="center">
+  <!-- TODO: Update with your actual LinkedIn URL -->
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
+  <!-- TODO: Update with your actual X/Twitter handle -->
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile" />
   </a>
   <a href="https://github.com/freakyyirus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=freakyyirus&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=freakyyirus&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
 <br>
@@ -105,7 +103,7 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <summary><b>⚙️ Toolkit & Script Usage</b></summary>
 <br>
 
-Update the gallery by placing images in <code>Gallary/</code> and running:  
+Update the gallery by placing images in <code>Gallery/</code> and running:  
 <code>python scripts/generate_gallery.py</code>
 
 </details>

@@ -2,7 +2,7 @@ import os
 import urllib.parse
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-GALLERY_DIR = os.path.join(REPO_ROOT, 'Gallary')
+GALLERY_DIR = os.path.join(REPO_ROOT, 'Gallery')
 README_PATH = os.path.join(REPO_ROOT, 'README.md')
 
 START_MARKER = '<!-- GALLERY-START -->'
@@ -13,7 +13,7 @@ def build_gallery_html(files):
     for fn in files:
         if fn.startswith('.'):
             continue
-        src = 'Gallary/' + urllib.parse.quote(fn)
+        src = 'Gallery/' + urllib.parse.quote(fn)
         caption = os.path.splitext(fn)[0].replace('-', ' ').replace('_', ' ')
         item = (
             '  <figure style="display:inline-block; margin:10px; text-align:center;">\n'
@@ -26,12 +26,12 @@ def build_gallery_html(files):
 
 def main():
     if not os.path.exists(GALLERY_DIR):
-        print('Gallary folder not found:', GALLERY_DIR)
+        print('Gallery folder not found:', GALLERY_DIR)
         return
 
     files = sorted(os.listdir(GALLERY_DIR))
     if not files:
-        print('No files found in Gallary/. README will keep placeholder.')
+        print('No files found in Gallery/. README will keep placeholder.')
 
     gallery_html = build_gallery_html(files)
 
