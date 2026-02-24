@@ -20,8 +20,8 @@ def main():
         subprocess.run(["git", "add", fp])
         subprocess.run(["git", "commit", "-m", f"update: {os.path.basename(fp) if 'os' in globals() else fp}"])
         subprocess.run(["git", "push", "origin", "main"])
-        print(f"Pushed {fp}. Waiting 2 seconds...")
-        time.sleep(2)
+        print(f"Pushed {fp}. Waiting 10 seconds...")
+        time.sleep(10)
 
 import os
 if __name__ == "__main__":
