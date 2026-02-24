@@ -18,7 +18,6 @@ def build_gallery_html(files):
         item = (
             '  <figure style="display:inline-block; margin:10px; text-align:center;">\n'
             f'    <img src="{src}" alt="{caption}" width="280" style="border-radius:8px;" />\n'
-            f'    <figcaption style="color:#8b949e; font-size:0.9rem; margin-top:6px;">{caption}</figcaption>\n'
             '  </figure>'
         )
         parts.append(item)
