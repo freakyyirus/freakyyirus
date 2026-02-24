@@ -1,78 +1,61 @@
-Project: Dynamic README + Hackathon Gallery
+# Hi there, I'm freakyyirus! 👋
 
-[![Repository Status](https://img.shields.io/badge/status-active-brightgreen)](README.md) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <a href="https://github.com/freakyyirus">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Hackathon+Enthusiast;Always+Learning+&+Building" alt="Typing SVG" />
+  </a>
+</p>
 
-Short description
------------------
+<p align="center">
+  <em>Welcome to my GitHub portfolio! I'm a passionate developer who loves building applications, participating in hackathons, and exploring new technologies.</em>
+</p>
 
-This repository contains a small toolkit and a preview generator to create a clean, dynamic GitHub README for your profile that showcases projects, GitHub stats, and a Hackathon Gallery. It is designed to be safe (simple Markdown), non-crashing on GitHub, and easy to update.
+---
 
-Highlights
-----------
+### 👨‍💻 About Me
 
-- Purpose: generate and maintain an attractive profile README and host a gallery of hackathon photos.
-- Key features: preview generator (`preview.html`), simple image gallery support, usage scripts in `scripts/`.
-- Safe output: README contents are plain Markdown with standard image links so GitHub renders reliably.
+- 🔭 I’m currently working on exciting new projects and improving my tech stack.
+- 🌱 I’m currently focused on scalable web architectures and innovative hackathon builds.
+- 👯 I’m looking to collaborate on Open Source projects and creative web applications.
+- 🎯 Goals for this year: Build more, open-source more, and win more hackathons.
+- 📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a> (Update with real email)
 
-Repository structure
---------------------
+---
 
-This repository contains:
+### 🛠️ Languages and Tools
 
-1. `preview.html` — a small UI to generate README markdown from your GitHub username.
-2. `questionnaire.md` — notes and prompts used when crafting the README content.
-3. `assets/` — images and other static assets (logo, icons, etc.).
-4. `Gallary/` — (existing) folder with uploaded photos. Example: `Gallary/WhatsApp Image 2026-02-24 at 1.44.51 PM.jpeg`.
-5. `scripts/` — helper scripts to generate visuals (`generate-monitor.py`, `generate-vintage.py`, `push_one_by_one.py`).
-6. `README.md` — this file.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,css,html,git,github,vscode,docker,figma" />
+  </a>
+</p>
 
-Installation & data access
--------------------------
+---
 
-Clone the repository (replace `<username>` and `<repo>`):
+### 📊 GitHub Stats
 
-```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
-```
+<div align="center">
+  <a href="https://github.com/freakyyirus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/freakyyirus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
 
-Download a single file (raw) without cloning:
+<br/>
 
-```bash
-curl -L -o sample.jpg "https://raw.githubusercontent.com/<username>/<repo>/main/Gallary/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg"
-```
+<div align="center">
+  <a href="https://github.com/freakyyirus">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
 
-Notes:
-- When constructing raw URLs, replace spaces with `%20` or use the file's raw link via GitHub UI.
-- If you prefer GUIs, click the repository's **Code → Download ZIP** to get all files.
+---
 
-Usage examples
---------------
+### 🏆 Hackathon Gallery
 
-- Open `preview.html` in a browser (double-click or serve locally) to preview README markdown for any GitHub username.
-- Run helper scripts (Python required):
-
-```bash
-python scripts/generate-monitor.py
-python scripts/generate-vintage.py
-```
-
-- Example: manually insert a project entry in this README:
-
-```markdown
-- [my-cool-project](https://github.com/<username>/my-cool-project) — One-line summary and what it does.
-```
-
-Hackathon Gallery
------------------
-
-Images are stored in `Gallary/` (existing) or `assets/hackathons/` (recommended). To add a new photo:
-
-1. Put the image file in `assets/hackathons/` or `Gallary/`.
-2. Use a concise filename with no spaces (e.g. `hackathon-2026-city.jpg`) or URL-encode spaces when referencing raw URLs.
-3. Add the image and caption to this README as shown below.
-
-Example gallery (auto-generated from files in `Gallary/`):
+Here are some highlights and memories from my recent hackathons and tech events!
 
 <!-- GALLERY-START -->
 
@@ -87,62 +70,49 @@ Example gallery (auto-generated from files in `Gallary/`):
 
 <!-- GALLERY-END -->
 
-Caption: Hackathon — Example venue (replace with the event and place).
-
-If you'd like, I can move images from `Gallary/` into `assets/hackathons/` and rename them to URL-friendly filenames.
-
-Contributing
-------------
-
-Contributions are welcome!
-
-- File issues for bugs or feature requests.
-- Send pull requests with a clear description and tests/examples when appropriate.
-- Please follow simple style: write Markdown with standard headings, avoid inline HTML where possible.
-
-Maintainers & contact
----------------------
-
-- Maintainer: @your-github-handle (replace with your GitHub username)
-- For questions: open an issue in this repository or email your.email@example.com
-
-License
--------
-
-This project is released under the MIT License — add a `LICENSE` file at the repo root if you want to apply this license.
-
-Next steps I can take for you
-----------------------------
-
-- Replace `<username>/<repo>` and `@your-github-handle` with your GitHub details.
-- Move and rename the existing `Gallary/WhatsApp Image 2026-02-24 at 1.44.51 PM.jpeg` into `assets/hackathons/hackathon-2026-example.jpg` and add it to the gallery with the caption you specify.
-- Create a `CONTRIBUTING.md` or `LICENSE` file.
+<p align="center">
+  <em>(The gallery above automatically updates when I add new photos to the <code>Gallary/</code> folder via python scripts)</em>
+</p>
 
 ---
 
-If you'd like me to perform any of the next steps, tell me which one and provide the exact username, desired filenames, or captions.
+### 🤝 Connect with Me
 
-Necessary repo contents
------------------------
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/freakyyirus">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-The following items are useful to include in a well-organized repository:
+<p align="center">
+  <img src="https://profile-counter.glitch.me/freakyyirus/count.svg" alt="Profile Views" />
+</p>
 
-- `README.md` — project overview and usage (this file).
-- `LICENSE` — license file (e.g., MIT) so others know how they may use the code.
-- `CONTRIBUTING.md` — contribution guidelines for external contributors.
-- `.gitignore` — patterns for files that should not be committed (build artifacts, credentials).
-- `data/` or `assets/` — sample datasets or images (here: `assets/`, `Gallary/`).
-- `scripts/` — helper scripts and utilities.
-- `src/` — source code or modules for the project.
-- `notebooks/` — example notebooks demonstrating usage or analysis.
-- `tests/` — automated tests.
-- `docs/` — optional documentation or extended instructions.
+<br>
 
-Add socials (placeholders)
--------------------------
+<details>
+<summary><b>⚙️ Toolkit & Script Usage (For my eyes only)</b></summary>
 
-You can replace these placeholders with your real links later.
+### Repository scripts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-youremail%40example.com-D14836?logo=gmail)](mailto:youremail@example.com)
+This repository uses local Python scripts to generate visual elements:
+
+1. **Hackathon Gallery Builder**: Updates the `README.md` with images found in `Gallary/`.
+    ```bash
+    python scripts/generate_gallery.py
+    ```
+2. **Sequential Push Utility**: Pushes commits individually to track step-by-step progress.
+    ```bash
+    python scripts/generate-monitor.py
+    python scripts/generate-vintage.py
+    ```
+
+*Remember to replace placeholders with actual social links and emails.*
+
+</details>
