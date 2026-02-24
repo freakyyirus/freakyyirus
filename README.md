@@ -1,13 +1,21 @@
-# freakyyirus
-**Full-stack developer · Architect · Builder**
+## Hi there, I'm freakyyirus! 👋
 
-I blend elegant code with minimal design to build scalable, high-performance web applications. Always exploring new architectures and pushing the limits at hackathons.
-
-[Email](mailto:hello@example.com) ⸢ [LinkedIn](https://linkedin.com/in/your-linkedin) ⸢ [Twitter](https://twitter.com/yourhandle) ⸢ [Portfolio](#)
+> **Full-Stack Developer • Architect • Constant Learner**  
+> *Translating complex problems into elegant, scalable solutions.*
 
 ---
 
-### Hackathon Gallery
+### 👨‍💻 About Me
+
+- 🔭 Focusing my efforts on **scalable web architectures** and robust backend systems.
+- 🌱 Constantly exploring modern frontend frameworks and refining my UI/UX skills.
+- 👯 Always open to collaborate on **Open Source projects** or dive into a new hackathon.
+- 📫 Let's connect: [hello@example.com](mailto:hello@example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin) • [Twitter](https://twitter.com/yourhandle)
+
+---
+
+### 🏆 Hackathon & Project Gallery
+
 A curated collection of builds, events, and late-night coding sessions.
 
 <!-- GALLERY-START -->
@@ -19,26 +27,50 @@ A curated collection of builds, events, and late-night coding sessions.
     <figcaption style="color:#8b949e; font-size:0.9rem; margin-top:6px;">WhatsApp Image 2026 02 24 at 1.44.51 PM</figcaption>
   </figure>
 
+  <figure style="display:inline-block; margin:10px; text-align:center;">
+    <img src="Gallary/nono.jpg" alt="nono" width="280" style="border-radius:8px;" />
+    <figcaption style="color:#8b949e; font-size:0.9rem; margin-top:6px;">nono</figcaption>
+  </figure>
+
 </div>
 
 <!-- GALLERY-END -->
 
 ---
 
-### Arsenal
-**Core:** JavaScript, TypeScript, Python  
-**Frontend:** React, Next.js, TailwindCSS, HTML/CSS  
-**Backend & Ops:** Node.js, Express, Docker, Git  
+### 🛠️ Tech Arsenal
 
-### Current Focus
-- Architecting scalable & resilient web systems
-- Deep diving into modern frontend frameworks
-- Open source contributions and hackathon builds
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,css,html,git,github,vscode,docker,figma" />
+  </a>
+</p>
 
-<br><br>
+---
+
+### 📊 GitHub Productivity
+
+<div align="left">
+  <a href="https://github.com/freakyyirus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freakyyirus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/freakyyirus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakyyirus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="left">
+  <a href="https://github.com/freakyyirus">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=freakyyirus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
 
 <details>
-<summary><small>Repository Toolkit</small></summary>
+<summary><small>⚙️ Repository Toolkit (Script Usage)</small></summary>
 <br>
 
 <small>
