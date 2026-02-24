@@ -1,18 +1,24 @@
-# Hi there, I'm freakyyirus! 👋
+<br>
 
-<p align="center">
-  <em><b>Full-Stack Developer • Hackathon Enthusiast • Always Learning & Building</b></em>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on exciting new projects and improving my tech stack.
-- 🌱 I’m currently focused on scalable web architectures and innovative hackathon builds.
-- 👯 I’m looking to collaborate on Open Source projects and creative web applications.
-- 🎯 Goals for this year: Build more, open-source more, and win more hackathons.
-- 📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a> (Update with real email)
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/freakyyirus.png" width="180" style="border-radius: 50%; padding: 10px;" alt="Profile Picture" />
+    </td>
+    <td width="70%">
+      <h2>Hi there, I'm freakyyirus! 👋</h2>
+      <p><em><b>Full-Stack Developer • Hackathon Enthusiast • Always Learning & Building</b></em></p>
+      <p><b>👨‍💻 About Me</b></p>
+      <ul>
+        <li>🔭 Working on exciting new projects and improving my tech stack.</li>
+        <li>🌱 Focused on scalable web architectures and innovative hackathon builds.</li>
+        <li>👯 Looking to collaborate on Open Source projects and creative applications.</li>
+        <li>🎯 Goals for this year: Build more, open-source more, and win hackathons.</li>
+        <li>📫 Let's connect: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
