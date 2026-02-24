@@ -15,7 +15,7 @@ A curated collection of builds, events, and late-night coding sessions.
 <div align="center">
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="Gallary/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 1.44.51 PM" width="280" style="border-radius:8px;" />
+    <img src="Gallary/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg" alt="" width="280" style="border-radius:8px;" />
     <figcaption style="color:#8b949e; font-size:0.9rem; margin-top:6px;">WhatsApp Image 2026 02 24 at 1.44.51 PM</figcaption>
   </figure>
 
