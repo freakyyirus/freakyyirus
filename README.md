@@ -29,31 +29,31 @@ Here are some highlights and memories from my recent hackathons and tech events!
 <div align="center">
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%201.44.51%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 1.44.51 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.11%20PM%20%282%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.11 PM (2)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.00%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.00 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.11%20PM%20%281%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.11 PM (1)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.01%20PM%20%281%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.01 PM (1)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.11%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.11 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.01%20PM%20%282%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.01 PM (2)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.10%20PM%20%282%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.10 PM (2)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.01%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.01 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.10%20PM%20%281%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.10 PM (1)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.02%20PM%20%281%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.02 PM (1)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.10%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.10 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
-    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.02%20PM%20%282%29.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.02 PM (2)" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
+    <img src="Gallery/WhatsApp%20Image%202026-02-24%20at%202.59.09%20PM.jpeg" alt="WhatsApp Image 2026 02 24 at 2.59.09 PM" width="130" height="130" style="border-radius:10px; object-fit: cover;" />
   </figure>
 
   <figure style="display:inline-block; margin:5px; text-align:center; vertical-align: top;">
