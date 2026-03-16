@@ -12,7 +12,8 @@
         <li>🌱 Focused on scalable web architectures and innovative hackathon builds.</li>
         <li>👯 Looking to collaborate on Open Source projects and creative applications.</li>
         <li>🎯 Goals for this year: Build more, open-source more, and win hackathons.</li>
-        <li>📫 Let's connect: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+        <li>🥸 I don't know what to do and what no to do; still trying to adapt.</li>
+        <li>📫 Let's connect: <a href="mailto:yuvrajsingh56426@gmail.com">your.email@example.com</a></li>
       </ul>
     </td>
   </tr>
